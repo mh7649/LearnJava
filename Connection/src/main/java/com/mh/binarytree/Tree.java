@@ -8,6 +8,9 @@ package com.mh.binarytree;
  */
 public interface Tree<T extends Comparable> {
 
+    public static final String INSERT_NULL = "不能插入空数据";
+    public static final String REMOVE_NULL = "不能删除空数据";
+
     /**
      * 判断树是否为空
      * @return
