@@ -2,7 +2,7 @@
  Copyright (c) 2002-2019 WiseCRM.com. All rights reserved.
  WiseCRM.com PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
  */
-package com.mh.memory;
+package com.mh.oom;
 
 import java.lang.reflect.Method;
 
