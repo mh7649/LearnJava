@@ -7,7 +7,11 @@
     <groupId>groupId</groupId>
     <artifactId>JVM</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <parent>
+        <artifactId>LearnJava</artifactId>
+        <groupId>com.mh</groupId>
+        <version>1.0</version>
+    </parent>
     <dependencies>
         <dependency>
             <groupId>cglib</groupId>
